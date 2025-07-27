@@ -1,0 +1,427 @@
+{
+  "pdf_filename": "test.pdf",
+  "total_headings": 46,
+  "extraction_methods": {
+    "builtin_outline": 0,
+    "text_analysis": 6,
+    "font_analysis": 212,
+    "position_analysis": 102
+  },
+  "headings": [
+    {
+      "title": "Name: -Divakar Pandey",
+      "level": 0,
+      "page_number": 1,
+      "line_number": 1,
+      "source": "position_analysis",
+      "confidence": 0.65,
+      "children": [
+        {
+          "title": "Section: -DS1",
+          "level": 1,
+          "page_number": 1,
+          "line_number": 2,
+          "source": "position_analysis",
+          "confidence": 0.65,
+          "children": []
+        },
+        {
+          "title": "Roll No.:42(2021682)",
+          "level": 1,
+          "page_number": 1,
+          "line_number": 3,
+          "source": "position_analysis",
+          "confidence": 0.65,
+          "children": []
+        },
+        {
+          "title": "Algorithm -",
+          "level": 1,
+          "page_number": 1,
+          "line_number": 5,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Name: -Divakar Pandey Section: -DS1 Roll No.:42(2021682) Input: Output:",
+          "level": 1,
+          "page_number": 2,
+          "line_number": 1,
+          "source": "text_analysis",
+          "confidence": 0.8,
+          "children": []
+        },
+        {
+          "title": "Input:",
+          "level": 1,
+          "page_number": 2,
+          "line_number": 4,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Output:",
+          "level": 1,
+          "page_number": 2,
+          "line_number": 8,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "DFA design:",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 6,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Code:",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 27,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<INITIAL>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 33,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<INITIAL>1  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 34,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 39,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>1  BEGIN  B;",
+          "level": 1,
+          "page_number": 9,
+          "line_number": 40,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 10,
+          "line_number": 4,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>1  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 10,
+          "line_number": 5,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<INITIAL>0  BEGIN  B;",
+          "level": 1,
+          "page_number": 15,
+          "line_number": 33,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<INITIAL>1  BEGIN  A;",
+          "level": 1,
+          "page_number": 15,
+          "line_number": 34,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>0  BEGIN  C;",
+          "level": 1,
+          "page_number": 15,
+          "line_number": 39,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>1  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 15,
+          "line_number": 40,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>0  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 16,
+          "line_number": 4,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>1  BEGIN  C;",
+          "level": 1,
+          "page_number": 16,
+          "line_number": 5,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<C>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 16,
+          "line_number": 10,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<C>1  BEGIN  B;",
+          "level": 1,
+          "page_number": 16,
+          "line_number": 11,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>0  BEGIN  B;",
+          "level": 1,
+          "page_number": 19,
+          "line_number": 36,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>0  BEGIN  B;",
+          "level": 1,
+          "page_number": 19,
+          "line_number": 42,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<C>1  BEGIN  D;",
+          "level": 1,
+          "page_number": 20,
+          "line_number": 9,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<D>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 20,
+          "line_number": 14,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<D>1  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 20,
+          "line_number": 15,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>0  BEGIN  C;",
+          "level": 1,
+          "page_number": 21,
+          "line_number": 44,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<C>0  BEGIN  C;",
+          "level": 1,
+          "page_number": 22,
+          "line_number": 9,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<C>1  BEGIN  C;",
+          "level": 1,
+          "page_number": 22,
+          "line_number": 10,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<A>1  BEGIN  F;",
+          "level": 1,
+          "page_number": 23,
+          "line_number": 40,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<B>1  BEGIN  D;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 5,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<D>0  BEGIN  E;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 16,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<D>1  BEGIN  G;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 17,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<E>0  BEGIN  B;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 22,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<E>1  BEGIN  F;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 23,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<F>0  BEGIN  E;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 28,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<F>1  BEGIN  G;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 29,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<G>0  BEGIN  A;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 34,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "<G>1  BEGIN  INITIAL;",
+          "level": 1,
+          "page_number": 24,
+          "line_number": 35,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Lex Code:",
+          "level": 1,
+          "page_number": 26,
+          "line_number": 7,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "YACC Code:",
+          "level": 1,
+          "page_number": 26,
+          "line_number": 11,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Action:",
+          "level": 1,
+          "page_number": 26,
+          "line_number": 16,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "S: B | A S ;",
+          "level": 1,
+          "page_number": 27,
+          "line_number": 15,
+          "source": "font_analysis",
+          "confidence": 0.6,
+          "children": []
+        },
+        {
+          "title": "Name: -Divakar Pandey Section: -DS1 Roll No.:42(2021682)",
+          "level": 1,
+          "page_number": 28,
+          "line_number": 1,
+          "source": "text_analysis",
+          "confidence": 0.8,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
