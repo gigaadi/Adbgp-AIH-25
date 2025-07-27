@@ -25,13 +25,13 @@ pip install -r requirements.txt
 ### Command Line Usage
 
 ```bash
-python pdf_to_json_converter.py <pdf_file_path>
+python best_pdf_converter.py <pdf_file_path>
 ```
 
 ### Example
 
 ```bash
-python pdf_to_json_converter.py document.pdf
+python best_pdf_converter.py document.pdf
 ```
 
 This will create a JSON file named `document_outline.json` in the same directory.
